@@ -387,6 +387,6 @@ client.on('message', message => {
     }
 });
 
-client.user.setGame(`Type |shhelp`,"http://twitch.tv/SHADOW)
+
 
 client.login(process.env.BOT_TOKEN);
